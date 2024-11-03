@@ -110,7 +110,6 @@ Responsável pela interface com usuário.
 - Separação de responsabilidades
 - Interface de usuário organizada
 - Código comentado e documentado
-- Estrutura hierárquica clara
 
 ## Possíveis Melhorias
 
@@ -126,8 +125,3 @@ Responsável pela interface com usuário.
    - Autenticação de usuários
    - Níveis de acesso
    - Criptografia de dados sensíveis
-
-4. **Funcionalidades Adicionais**
-   - Histórico de alterações
-   - Relatórios gerenciais
-   - Métricas de desempenho
