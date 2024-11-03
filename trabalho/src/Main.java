@@ -52,11 +52,11 @@ public class Main {
         joao.salarioFuncionario = 3800;
 
         //cargos dos funcionários//
-        murilo.cargoFuncionario = "Programa com o C#";
+        murilo.cargoFuncionario = "Desenvolvedor C#";
         kaynan.cargoFuncionario = "Python Master Chief Developer";
         giovanna.cargoFuncionario = "CEO";
         pedro.cargoFuncionario = "Engenheiro Pleno";
-        bruno.cargoFuncionario = "Designer Master";
+        bruno.cargoFuncionario = "Designer";
         joao.cargoFuncionario = "Supervisor";
 
         //cpf dos funcionarios//
